@@ -20,7 +20,7 @@ jobs:
           # either your GitHub username:
           # username: "Queizen30"
           # or use the actor (recommended for personal repos)
-          username: ${{ github.actor }}
+          username: Queizen30
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Fix git author if committing (optional)
