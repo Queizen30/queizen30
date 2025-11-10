@@ -1,11 +1,9 @@
 name: Generate Snake on contributions grid
-# allow manual runs and (optionally) a daily schedule
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # optional - runs daily at midnight UTC
+    - cron: '0 0 * * *' # optional: daily at midnight UTC
 
-# allow committing files
 permissions:
   contents: write
 
@@ -19,4 +17,14 @@ jobs:
       - name: Generate snake game from contribution grid
         uses: platane/snk@v3
         with:
+          # either your GitHub username:
+          # username: "Queizen30"
+          # or use the actor (recommended for personal repos)
+          username: ${{ github.actor }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Fix git author if committing (optional)
+        if: always() # run to ensure commits have a proper author if something commits later
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
