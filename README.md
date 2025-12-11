@@ -17,4 +17,4 @@ i am a new web dev, currently learning javascript. i create web apps, websites a
 
 ## contact me 📧
 
-[mail me](mailto:info@qu30.qzz.io)
+[mail me](mailto:info@qu30.qzz.io) or [message me on discord]()
