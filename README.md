@@ -6,7 +6,7 @@ i am currently working on my own [website](https://qu30.qzz.io).
 
 ## what i do 📋
 
-i am a new web dev, currently learning javascript. i create web apps, websites and do things related to minecraft. i'm also sometimes using ai. (vibe coder?! _uuuhhhmmm_, no, i would never do that!)
+i am a new web dev, currently learning javascript. i create web apps, websites and do things related to minecraft. i'm also sometimes using ai. (vibe coder?! _uuuhhhmmm_, no, i would _**never**_ do that!)
 
 ## hobbys 🧑‍💻
 
