@@ -4,7 +4,8 @@ i am Queizen30, a gamer and (relativly new) web dev.
 
 i am currently working on my own [website](https://qu30.qzz.io).
 
-## about me
+## about me 👈
+
 1. i'm stupid (obviously)
 2. i play minecraft
 3. i'm learing web dev
