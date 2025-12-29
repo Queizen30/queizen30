@@ -2,7 +2,7 @@
 
 i am Queizen30, a gamer and (relativly new) web dev.
 
-i am currently working on my own [website](https://qu30.qzz.io).
+i am currently working on [LUMT](https://lumt.qu30.qzz.io) (List of useful Minecraft tools).
 
 ## about me 👈
 
