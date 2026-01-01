@@ -31,7 +31,7 @@ jobs:
       - name: Commit generated files (if changed)
         uses: EndBug/add-and-commit@v9
         with:
-          message: "chore: update github-snake images"
+          message: "baked you a cake and updated snake gifs"
           add: "dist/**"
           author_name: "github-actions"
           author_email: "41898282+github-actions[bot]@users.noreply.github.com"
