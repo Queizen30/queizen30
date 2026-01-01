@@ -27,3 +27,9 @@ i am a new web dev, currently learning javascript. i create web apps, websites a
 [send me a mail](mailto:info@qu30.qzz.io) or [message me on discord](https://discord.com/users/1430423578179797098)
 
 ## other cool things 💻
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="/dist/github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
