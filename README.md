@@ -25,3 +25,5 @@ i am a new web dev, currently learning javascript. i create web apps, websites a
 ## contact me 📧
 
 [send me a mail](mailto:info@qu30.qzz.io) or [message me on discord](https://discord.com/users/1430423578179797098)
+
+## other cool things 💻
