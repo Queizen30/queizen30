@@ -33,5 +33,3 @@ i am a new web dev, currently learning javascript. i create web apps, websites a
   <source media="(prefers-color-scheme: light)" srcset="/dist/github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
-
-![Visits Badge](https://badges.pufler.dev/visits/queizen30/queizen30)
